@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.2.3/gacha-archive-android-2.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.2.3",
-  "notes": "补充 Android 启动自动检查、更新弹窗、APK 下载和安装引导。Android 系统安装更新时仍需用户确认。",
-  "sha256": "f5ec1f3d1e2ee9388eaf07e207a120bb40cacb334c83339e4a984bd9de54de22"
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.2.4/gacha-archive-android-3.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.2.4",
+  "notes": "Shizuku 安装按钮提示需要 VPN，默认直达 GitHub 最新 APK，并补充无线调试启动与服务重启说明。Android 系统安装更新时仍需用户确认。",
+  "sha256": "d7c25330c7d7e66a13c03defa8026b8dd58aa94147ca944ce03823459f76a7ae"
 }
