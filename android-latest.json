@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/android-v0.1.1/gacha-archive-android-2.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/android-v0.1.1",
+  "notes": "补充 Android 启动自动检查、更新弹窗、APK 下载和安装引导。Android 系统安装更新时仍需用户确认。",
+  "sha256": "f5ec1f3d1e2ee9388eaf07e207a120bb40cacb334c83339e4a984bd9de54de22"
+}
