@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.2.4",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.10/gacha-archive-android-14.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.10",
-  "notes": "新增米游社授权、本机记录页、官方云游戏历史与 UIGF 多渠道增量导入，并完善 Shizuku、登录会话和多 UID 处理。Android 系统安装更新时仍需用户确认。",
-  "sha256": "20e1bac6cd429beccbfe4c6d209aeeb8e5273d475e4ea2c40fa9fb0b84a94868"
+  "versionCode": 15,
+  "versionName": "0.2.5",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.11/gacha-archive-android-15.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.11",
+  "notes": "优化自动更新稳定性：更新检查与下载增加有界重试，APK 支持断点续传并在临时网络故障后保留进度；下载失败时可重试或转到浏览器继续下载。Android 系统安装更新时仍需用户确认。",
+  "sha256": "d1d1972caed804302e5fad3a8dfb7c342f410d4df1c25dc25b91f11f839a5a6a"
 }
