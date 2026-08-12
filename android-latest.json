@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.2.6",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.12/gacha-archive-android-16.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.12",
-  "notes": "修复米游社慢网络读取：删除整次同步固定 120 秒截止，保留单页 45 秒超时并对临时网络错误有限重试。新增一次性版本更新说明；同一版本关闭后不再弹出。新角色和武器继续由官方数据自动识别。Android 系统安装更新时仍需用户确认。",
-  "sha256": "eba5c247c24f0c0ba150280cd3641711b8be3051b9bccaa77a627381156b432d"
+  "versionCode": 17,
+  "versionName": "0.2.7",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.13/gacha-archive-android-17.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.13",
+  "notes": "优化自动检查更新的稳定性：只有检查成功后才进入限频，失败时会显示可重试弹窗；清单支持 ETag 复核。正式版支持从较旧版本直接升级到最新版。更新资源托管在 GitHub，连接或下载缓慢时请切换至能够稳定访问 GitHub 的网络环境。Android 系统安装更新时仍需用户确认。",
+  "sha256": "1974cd34b51c93541d4fd6b3153be9cf82d112e2416dbdd962d4eee7261f335c"
 }
