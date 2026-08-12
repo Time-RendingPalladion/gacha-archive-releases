@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.7",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.13/gacha-archive-android-17.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.13",
-  "notes": "优化自动检查更新的稳定性：只有检查成功后才进入限频，失败时会显示可重试弹窗；清单支持 ETag 复核。正式版支持从较旧版本直接升级到最新版。更新资源托管在 GitHub，连接或下载缓慢时请切换至能够稳定访问 GitHub 的网络环境。Android 系统安装更新时仍需用户确认。",
-  "sha256": "1974cd34b51c93541d4fd6b3153be9cf82d112e2416dbdd962d4eee7261f335c"
+  "versionCode": 18,
+  "versionName": "0.2.8",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.14/gacha-archive-android-18.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.14",
+  "notes": "安卓端补齐具体出金记录的独立斜纹进度条与抽数分隔区，查看每次出金进度更直观。优化自动检查更新的稳定性：只有检查成功后才进入限频，失败时会显示可重试弹窗；清单支持 ETag 复核。正式版支持从较旧版本直接升级到最新版。更新资源托管在 GitHub，连接或下载缓慢时请切换至能够稳定访问 GitHub 的网络环境。Android 系统安装更新时仍需用户确认。",
+  "sha256": "c2c5b83684551ed5d77b976a2ce7112c04ea5e94d12a4b11064056e50aee6c12"
 }
