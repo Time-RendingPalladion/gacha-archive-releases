@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.2.9",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.15/gacha-archive-android-19.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.15",
-  "notes": "版本发现优先使用中国大陆可访问的腾讯云 COS 轻量清单，国内源不可用时自动回退 GitHub；安装资源仍全部来自 GitHub Releases。自动检查确认最新版或失败均静默，手动检查最新版显示绿色提示、失败显示红色提示。正式版支持直接跨版本升级；Android 下载继续执行 HTTPS、Range 续传与 SHA-256 校验。",
-  "sha256": "dd4f922c4bb96cbde2e014893efbe03bd2c88c4c1d370b057da9e64bd4b25fc9"
+  "versionCode": 21,
+  "versionName": "0.2.11",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.17/gacha-archive-android-21.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.17",
+  "notes": "新增绝区零独家重映与音擎回响记录读取并与普通频段分开统计。每期福利首金标记为“福”，不消耗普通保底、不计普通不歪率，仅按出金效率纳入综合欧气；后续金继续按普通保底、不歪率和每个 UP 成本评价。首十连优惠无法从抽卡记录确认，货币消耗仍按原价估算。",
+  "sha256": "ee1dc6f745f2ba05035c0835237b536cddb97559fd32248296d348dc5c9a9052"
 }
