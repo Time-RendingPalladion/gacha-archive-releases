@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.2.12",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.18/gacha-archive-android-22.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.18",
-  "notes": "应用图标升级为更清晰的多层档案盒、票卡与星芒标识；Android 构建工具升级到完整支持 API 35 的版本，并更新构建依赖安全基线。",
-  "sha256": "fc1d5f0ec8ce7cb7e9d69cf2f45dad71c005250c43f80469bcecc8013edf3076"
+  "versionCode": 23,
+  "versionName": "0.2.13",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.19/gacha-archive-android-23.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.19",
+  "notes": "历史窗口起点未知的首金现标记为至少抽数，不再误计入抽数评分；Windows 更新会重建桌面快捷方式以刷新图标。",
+  "sha256": "fbc8643344399e942c86fc9b96ce95cf38eb792c5994220336f1f6eec33c9803"
 }
