@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.2.13",
-  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.19/gacha-archive-android-23.apk",
-  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.19",
-  "notes": "历史窗口起点未知的首金现标记为至少抽数，不再误计入抽数评分；Windows 更新会重建桌面快捷方式以刷新图标。",
-  "sha256": "fbc8643344399e942c86fc9b96ce95cf38eb792c5994220336f1f6eec33c9803"
+  "versionCode": 25,
+  "versionName": "0.2.15",
+  "apkUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/download/v0.3.21/gacha-archive-android-25.apk",
+  "releaseUrl": "https://github.com/Time-RendingPalladion/gacha-archive-releases/releases/tag/v0.3.21",
+  "notes": "统一应用内图标与导出版本，完善操作反馈；严格校验导入记录，新增损坏档案保护及有效备份恢复；修复头像错配，改善手机窄屏和放大字体显示。",
+  "sha256": "4eaf9425d21db9056cab2ecaaae12588e1ef258a816776de4fdfe889e27bb82b"
 }
