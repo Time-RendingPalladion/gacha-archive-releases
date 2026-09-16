@@ -1,8 +1,8 @@
-version: 0.3.19
+version: 0.3.21
 files:
-  - url: gacha-archive-setup-0.3.19.exe
-    sha512: JKsDl1ewYOaMO7SrRHncytUIwKZCiMzHE5JuQjkZgxOfknmjl6UdDwdoEHtyR3dnOKLNwR2qsEXndrYNztFKBw==
-    size: 94731129
-path: gacha-archive-setup-0.3.19.exe
-sha512: JKsDl1ewYOaMO7SrRHncytUIwKZCiMzHE5JuQjkZgxOfknmjl6UdDwdoEHtyR3dnOKLNwR2qsEXndrYNztFKBw==
-releaseDate: '2026-09-04T11:58:19.296Z'
+  - url: gacha-archive-setup-0.3.21.exe
+    sha512: 3Y93uevq5yEITPmfHJRSgRTwR15uaw4BisL3Kg2pcG+Hi+AS5gjgHTmJQdDVnJPjgFes6VFR9xVL3p7XzWcL3g==
+    size: 95076303
+path: gacha-archive-setup-0.3.21.exe
+sha512: 3Y93uevq5yEITPmfHJRSgRTwR15uaw4BisL3Kg2pcG+Hi+AS5gjgHTmJQdDVnJPjgFes6VFR9xVL3p7XzWcL3g==
+releaseDate: '2026-09-16T00:58:06.568Z'
